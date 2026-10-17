@@ -20,7 +20,7 @@ Una suite completa de software diseñada para operar de forma integrada:
 
 - **Frontend & UI:** Next.js 16 (App Router, Turbopack, Server Actions), React 19, Tailwind CSS.
 - **Backend & Base de Datos:** Node.js, TypeScript, PostgreSQL (Neon Serverless), Prisma ORM.
-- **Seguridad & Arquitectura:** Multi-tenancy con aislamiento estricto por workspace, transacciones ACID atómicas, manejo monetario en centavos enteros (BigInt), rate limiting en DB.
+- **Seguridad & Arquitectura:** Multi-tenancy con aislamiento estricto por workspace, transacciones ACID atómicas, manejo monetario en centavos enteros (`BigInt`), rate limiting en DB.
 - **Servicios & APIs:** Vercel CDN, Resend API, Webhooks firmados (HMAC-SHA256), REST APIs v1.
 
 ---
