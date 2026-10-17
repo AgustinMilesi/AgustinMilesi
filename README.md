@@ -1,41 +1,35 @@
-# 👋 Hola, soy Agustín Milesi
+# Hola, soy Agustín Milesi 👋
 
-### 💻 Full Stack Developer · ERP & SaaS
-
-Construyo aplicaciones web con foco en lógica de negocio,
-arquitectura escalable y buenas prácticas.
+Desarrollador Full Stack enfocado en software empresarial, plataformas SaaS y aplicaciones web modernas de alto rendimiento. Apasionado por la arquitectura escalable, el código limpio y la experiencia de usuario cuidada al detalle.
 
 ---
 
-## 🧠 Sobre mí
+### 🚀 Ecosistema de Proyectos Destacados
 
-- 🇦🇷 De Argentina
-- 🎓 Formación en desarrollo de software
-- 📚 Actualmente profundizando en arquitectura backend y sistemas ERP
-- 💬 Abierto a colaborar en proyectos open source
+Una suite completa de software diseñada para operar de forma integrada:
 
----
-
-## 🚀 Actualmente trabajando en
-
-- 🖥️ **ERP Modular** — Sistema con módulos de inventario y ventas
-- 📬 **Contact Page** — Formulario full-stack con emails y DB
-- 🌐 **Landing SaaS** — Presentación de producto
+| Proyecto | Descripción | Demo en Vivo | Repositorio |
+|---|---|:---:|:---:|
+| **💳 Retail ERP & POS** | Sistema de punto de venta y gestión comercial en tiempo real. Soporte para lectores de código de barra, arqueo ciego de caja, deducción atómica de inventario, tickets térmicos y modo oscuro. | [Ver Demo](https://milesi-erp.vercel.app) | [Código](https://github.com/AgustinMilesi/erp) |
+| **📥 Customer Inbox SaaS** | Plataforma multi-tenant para centralizar consultas de clientes mediante formularios embebibles, CRM integrado, webhooks firmados con HMAC-SHA256 y API REST para desarrolladores. | [Ver Demo](https://saas-am.vercel.app) | [Código](https://github.com/AgustinMilesi/saas) |
+| **📬 Contact Portal** | Portal de contacto y captura de leads con validación dual en cliente y servidor (Zod), protección anti-spam con trampa honeypot y despacho transaccional con Resend. | [Ver Demo](https://agustinmilesi-contact.vercel.app) | [Código](https://github.com/AgustinMilesi/contact-page) |
 
 ---
 
-## 🛠️ Tecnologías
+### 🛠️ Stack Tecnológico
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+- **Frontend & UI:** Next.js 16 (App Router, Turbopack, Server Actions), React 19, Tailwind CSS.
+- **Backend & Base de Datos:** Node.js, TypeScript, PostgreSQL (Neon Serverless), Prisma ORM.
+- **Seguridad & Arquitectura:** Multi-tenancy con aislamiento estricto por workspace, transacciones ACID atómicas, manejo monetario en centavos enteros (BigInt), rate limiting en DB.
+- **Servicios & APIs:** Vercel CDN, Resend API, Webhooks firmados (HMAC-SHA256), REST APIs v1.
 
 ---
 
-## 📫 Contacto
+### 📬 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-milesi-1982281b6/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:agusmilesi2002@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/agustin-milesi-1982281b6](https://www.linkedin.com/in/agustin-milesi-1982281b6/)
+- ✉️ **Email:** [agusmilesi2002@gmail.com](mailto:agusmilesi2002@gmail.com)
+- 🌐 **Portal de Contacto:** [agustinmilesi-contact.vercel.app](https://agustinmilesi-contact.vercel.app)
+
+---
+⭐ *Si te resultan útiles estos proyectos, no dudes en explorarlos y dejarles una estrella en GitHub.*
