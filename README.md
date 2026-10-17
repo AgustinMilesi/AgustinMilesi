@@ -1,35 +1,52 @@
-# Hola, soy Agustín Milesi 👋
+# Agustín Milesi
 
-Desarrollador Full Stack enfocado en software empresarial, plataformas SaaS y aplicaciones web modernas de alto rendimiento. Apasionado por la arquitectura escalable, el código limpio y la experiencia de usuario cuidada al detalle.
-
----
-
-### 🚀 Ecosistema de Proyectos Destacados
-
-Una suite completa de software diseñada para operar de forma integrada:
-
-| Proyecto | Descripción | Demo en Vivo | Repositorio |
-|---|---|:---:|:---:|
-| **💳 Retail ERP & POS** | Sistema de punto de venta y gestión comercial en tiempo real. Soporte para lectores de código de barra, arqueo ciego de caja, deducción atómica de inventario, tickets térmicos y modo oscuro. | [Ver Demo](https://milesi-erp.vercel.app) | [Código](https://github.com/AgustinMilesi/erp) |
-| **📥 Customer Inbox SaaS** | Plataforma multi-tenant para centralizar consultas de clientes mediante formularios embebibles, CRM integrado, webhooks firmados con HMAC-SHA256 y API REST para desarrolladores. | [Ver Demo](https://saas-am.vercel.app) | [Código](https://github.com/AgustinMilesi/saas) |
-| **📬 Contact Portal** | Portal de contacto y captura de leads con validación dual en cliente y servidor (Zod), protección anti-spam con trampa honeypot y despacho transaccional con Resend. | [Ver Demo](https://agustinmilesi-contact.vercel.app) | [Código](https://github.com/AgustinMilesi/contact-page) |
+```typescript
+const developer = {
+  name: "Agustín Milesi",
+  role: "Full Stack Developer",
+  location: "Argentina",
+  coreStack: ["Next.js", "TypeScript", "PostgreSQL", "Prisma", "Tailwind CSS"],
+  focus: ["Sistemas ERP / POS", "Arquitectura SaaS Multi-Tenant", "Sistemas de Alta Concurrencia"],
+  currentStatus: "Construyendo soluciones escalables de extremo a extremo"
+};
+```
 
 ---
 
-### 🛠️ Stack Tecnológico
+### `ecosystem.featuredProjects`
 
-- **Frontend & UI:** Next.js 16 (App Router, Turbopack, Server Actions), React 19, Tailwind CSS.
-- **Backend & Base de Datos:** Node.js, TypeScript, PostgreSQL (Neon Serverless), Prisma ORM.
-- **Seguridad & Arquitectura:** Multi-tenancy con aislamiento estricto por workspace, transacciones ACID atómicas, manejo monetario en centavos enteros (`BigInt`), rate limiting en DB.
-- **Servicios & APIs:** Vercel CDN, Resend API, Webhooks firmados (HMAC-SHA256), REST APIs v1.
+#### 01. Retail ERP & POS Engine
+> Sistema de gestión comercial y terminal de punto de venta optimizado para operaciones de alta velocidad.
+- **Arquitectura:** Next.js 16 (App Router, Turbopack, Server Actions), TypeScript, Neon Serverless Postgres, Prisma ORM, Tailwind CSS.
+- **Capacidades:** Soporte para lectores de código de barra y teclado completo, arqueo ciego de caja con auditoría de faltantes/sobrantes, deducción atómica de inventario (ACID), tickets térmicos para 80mm/58mm, y modo oscuro con paletas dinámicas.
+- **Enlaces:** [Demo en Producción ↗](https://milesi-erp.vercel.app) · [Repositorio ↗](https://github.com/AgustinMilesi/erp)
+
+#### 02. Customer Inbox & Forms SaaS
+> Plataforma SaaS multi-tenant diseñada para centralizar la comunicación y generación de leads para el ecosistema ERP.
+- **Arquitectura:** Next.js 16, TypeScript, Neon Serverless Postgres, Prisma ORM, REST API v1, Webhooks firmados.
+- **Capacidades:** Aislamiento estricto de datos por workspace (`organizationId`), formularios embebibles vía `<iframe>` y API headless, triaje de mensajes (New, Read, Archived), y webhooks firmados criptográficamente con HMAC-SHA256.
+- **Enlaces:** [Demo en Producción ↗](https://saas-am.vercel.app) · [Repositorio ↗](https://github.com/AgustinMilesi/saas)
+
+#### 03. Contact & Lead Capture Portal
+> Portal de contacto y captura de leads de alta intención con mitigación activa de spam.
+- **Arquitectura:** Next.js 16, TypeScript, Zod, Tailwind CSS, Neon Serverless Postgres, Resend API.
+- **Capacidades:** Validación dual en cliente y servidor con esquema Zod compartido, trampa invisible honeypot para bloqueo de bots, sanitización HTML de entradas y despacho inmediato de emails transaccionales.
+- **Enlaces:** [Demo en Producción ↗](https://agustinmilesi-contact.vercel.app) · [Repositorio ↗](https://github.com/AgustinMilesi/contact-page)
 
 ---
 
-### 📬 Conectemos
+### `system.specifications`
 
-- 💼 **LinkedIn:** [linkedin.com/in/agustin-milesi-1982281b6](https://www.linkedin.com/in/agustin-milesi-1982281b6/)
-- ✉️ **Email:** [agusmilesi2002@gmail.com](mailto:agusmilesi2002@gmail.com)
-- 🌐 **Portal de Contacto:** [agustinmilesi-contact.vercel.app](https://agustinmilesi-contact.vercel.app)
+- **Lenguajes & Runtimes:** TypeScript 5, JavaScript (ESNext), Node.js (>=20), SQL.
+- **Frameworks & UI:** Next.js 16 (App Router, Turbopack, Server Actions), React 19, Tailwind CSS 4, Zod.
+- **Bases de Datos & ORM:** PostgreSQL, Neon Lakebase (conexiones pooled y directas), Prisma ORM.
+- **Seguridad & Concurrencia:** Aislamiento multi-tenant por workspace, cookies seguras con prefijo `__Host-`, hash de sesiones con SHA-256, rate limiting persistente en base de datos, operaciones monetarias en centavos enteros (`BigInt`).
+- **Infraestructura & Cloud:** Vercel Edge/Serverless, Resend API, Webhooks HMAC-SHA256, REST APIs v1.
 
 ---
-⭐ *Si te resultan útiles estos proyectos, no dudes en explorarlos y dejarles una estrella en GitHub.*
+
+### `git.contact`
+
+- **LinkedIn:** [linkedin.com/in/agustin-milesi-1982281b6](https://www.linkedin.com/in/agustin-milesi-1982281b6/)
+- **Email:** [agusmilesi2002@gmail.com](mailto:agusmilesi2002@gmail.com)
+- **Web de Contacto:** [agustinmilesi-contact.vercel.app](https://agustinmilesi-contact.vercel.app)
