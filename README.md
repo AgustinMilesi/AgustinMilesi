@@ -55,17 +55,6 @@ Portal de contacto y captación de clientes con protección activa anti-spam.
 ---
 
 
-<br/>
-
-#### 🏪 Lo de Mari — Offline Retail POS & ERP
-Sistema POS y ERP para comercio minorista con arquitectura 100% offline-first.
-- ⚡ **Funcionalidades:** Motor de almacenamiento ilimitado en IndexedDB, gestión de pedidos simultáneos en pestañas, control de deudores (fiados), cierre y arqueo de caja con turnos, y diseño de lujo en verde petróleo y dorado.
-- 🛠️ **Stack:** JavaScript Vanilla, IndexedDB, Tailwind CSS, Chart.js.
-
-[![Código](https://img.shields.io/badge/Código_Fuente-18182E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgustinMilesi/marierp)
-
----
-
 ### 📊 Actividad & Lenguajes
 
 <div align="center">
