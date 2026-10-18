@@ -24,23 +24,23 @@
 
 ### 🚀 Ecosistema de Proyectos
 
-#### 💳 Retail ERP & POS Engine
+#### 💳 Retail Engine & POS
 Sistema de punto de venta y gestión comercial en tiempo real diseñado para alta velocidad operativa.
 - ⚡ **Funcionalidades:** Lectura de códigos de barra, arqueo ciego de caja con cálculo de diferencias, deducción atómica de inventario (ACID), tickets térmicos y modo oscuro.
 - 🛠️ **Stack:** Next.js 16, TypeScript, Neon Serverless Postgres, Prisma ORM, Tailwind CSS.
 
 [![Demo en Vivo](https://img.shields.io/badge/Demo_en_Vivo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://milesi-erp.vercel.app)
-[![Código](https://img.shields.io/badge/Código_Fuente-18182E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgustinMilesi/erp)
+[![Código](https://img.shields.io/badge/Código_Fuente-18182E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgustinMilesi/retail)
 
 <br/>
 
-#### 📥 Customer Inbox & Forms SaaS
+#### 📥 Customer Inbox & Forms Platform
 Plataforma multi-tenant para centralizar consultas de clientes mediante formularios web embebibles.
 - ⚡ **Funcionalidades:** Aislamiento estricto por workspace, formularios embebibles vía `<iframe>` y API headless, webhooks firmados con HMAC-SHA256 y API REST v1.
 - 🛠️ **Stack:** Next.js 16, TypeScript, Neon Postgres, Prisma, Webhooks HMAC, REST API.
 
 [![Demo en Vivo](https://img.shields.io/badge/Demo_en_Vivo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://saas-am.vercel.app)
-[![Código](https://img.shields.io/badge/Código_Fuente-18182E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgustinMilesi/saas)
+[![Código](https://img.shields.io/badge/Código_Fuente-18182E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgustinMilesi/inbox)
 
 <br/>
 
