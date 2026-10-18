@@ -52,6 +52,16 @@ Portal de contacto y captación de clientes con protección activa anti-spam.
 [![Demo en Vivo](https://img.shields.io/badge/Demo_en_Vivo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://agustinmilesi-contact.vercel.app)
 [![Código](https://img.shields.io/badge/Código_Fuente-18182E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgustinMilesi/contact)
 
+#### 🚢 SAP Cargo — Freight Logistics OS
+Plataforma de gestión para freight forwarders y seguimiento de contenedores marítimos y aéreos (KipinCARGO / KipinTRACK).
+- ⚡ **Funcionalidades:** Rastreo en vivo por contenedor o B/L, libro de embarques multimodales, hitos de escala y liquidación de márgenes de flete (USD).
+- 🛠️ **Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS, Prisma ORM, SQLite Local Engine.
+
+[![Código](https://img.shields.io/badge/Código_Fuente-18182E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgustinMilesi/cargo)
+[![Motor](https://img.shields.io/badge/Motor-SQLite_Local-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/AgustinMilesi/cargo)
+
+---
+
 ---
 
 
