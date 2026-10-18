@@ -62,9 +62,6 @@ Plataforma de gestión para freight forwarders y seguimiento de contenedores mar
 
 ---
 
----
-
-
 ### 📊 Actividad & Lenguajes
 
 <div align="center">
