@@ -67,6 +67,7 @@ Personal finance and mobile budget tracker built with React Native and NativeWin
 - 🛠️ **Stack:** React Native, Expo SDK 58, TypeScript, NativeWind v4, Tailwind CSS, AsyncStorage.
 
 [![Source Code](https://img.shields.io/badge/Source_Code-18182E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgustinMilesi/expenses)
+[![Download APK](https://img.shields.io/badge/Download_APK-Android_Direct-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://expo.dev/artifacts/eas/4KlACYkfHxU14bITNmFSRYdkuBrz3MH7FVkXu-XggWs.apk)
 [![Platform](https://img.shields.io/badge/Platform-iOS_%7C_Android-10B981?style=for-the-badge&logo=expo&logoColor=white)](https://github.com/AgustinMilesi/expenses)
 
 <br/>
