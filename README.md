@@ -33,7 +33,7 @@ Sistema de punto de venta y gestión comercial en tiempo real diseñado para alt
 
 [![Demo en Vivo](https://img.shields.io/badge/Demo_en_Vivo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://milesi-erp.vercel.app)
 [![Código](https://img.shields.io/badge/Código_Fuente-18182E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgustinMilesi/retail)
-[![Acceso Demo](https://img.shields.io/badge/Acceso_Demo-1--Click_Directo-10B981?style=for-the-badge&logo=auth0&logoColor=white)](https://milesi-erp.vercel.app)
+[![Entrar como Invitado](https://img.shields.io/badge/Entrar_como_Invitado-1--Click_Demo-10B981?style=for-the-badge&logo=auth0&logoColor=white)](https://milesi-erp.vercel.app/demo)
 
 <br/>
 
@@ -44,7 +44,7 @@ Plataforma multi-tenant para centralizar consultas de clientes mediante formular
 
 [![Demo en Vivo](https://img.shields.io/badge/Demo_en_Vivo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://saas-am.vercel.app)
 [![Código](https://img.shields.io/badge/Código_Fuente-18182E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgustinMilesi/inbox)
-[![Acceso Demo](https://img.shields.io/badge/Acceso_Demo-1--Click_Directo-10B981?style=for-the-badge&logo=auth0&logoColor=white)](https://saas-am.vercel.app)
+[![Entrar como Invitado](https://img.shields.io/badge/Entrar_como_Invitado-1--Click_Demo-10B981?style=for-the-badge&logo=auth0&logoColor=white)](https://saas-am.vercel.app/demo)
 
 <br/>
 
@@ -65,7 +65,7 @@ Plataforma de gestión para freight forwarders y seguimiento de contenedores mar
 
 [![Demo en Vivo](https://img.shields.io/badge/Demo_en_Vivo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://cargo-am.vercel.app)
 [![Código](https://img.shields.io/badge/Código_Fuente-18182E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgustinMilesi/cargo)
-[![Acceso Demo](https://img.shields.io/badge/Acceso_Demo-Interactivo_Libre-10B981?style=for-the-badge&logo=auth0&logoColor=white)](https://cargo-am.vercel.app)
+[![Entrar como Invitado](https://img.shields.io/badge/Entrar_como_Invitado-Demo_Abierto-10B981?style=for-the-badge&logo=auth0&logoColor=white)](https://cargo-am.vercel.app/demo)
 
 ---
 
