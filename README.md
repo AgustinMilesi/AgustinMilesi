@@ -3,16 +3,18 @@
 # Agustín Milesi
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Next.js+16+%7C+React+19+%7C+TypeScript;ERP+%26+Multi-Tenant+SaaS+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+%26+Mobile+Developer;Next.js+16+%7C+React+19+%7C+React+Native;ERP+%26+Multi-Tenant+SaaS+Platforms" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  Full Stack Developer specializing in enterprise systems, multi-tenant SaaS platforms, and high-performance web applications.
+  Full Stack & Mobile Developer specializing in enterprise systems, multi-tenant SaaS platforms, and high-performance cross-platform applications.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PostgreSQL-Neon-00E599?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
@@ -56,6 +58,16 @@ International freight forwarding, customs clearance, and real-time cargo trackin
 [![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://cargo-am.vercel.app)
 [![Source Code](https://img.shields.io/badge/Source_Code-18182E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgustinMilesi/cargo)
 [![Guest Demo](https://img.shields.io/badge/Guest_Demo-1--Click_Access-10B981?style=for-the-badge&logo=auth0&logoColor=white)](https://cargo-am.vercel.app/demo)
+
+<br/>
+
+#### 📱 PocketExpenses — Mobile Cost & Subscription Tracker
+Personal finance and mobile budget tracker built with React Native and NativeWind to manage monthly bills, recurring subscriptions, and leisure outings.
+- ⚡ **Key Highlights:** Real-time disposable income gauge, category breakdown (Fixed Bills vs Subscriptions vs Leisure), instant Paid/Pending toggle, multi-currency support, and offline-first persistence.
+- 🛠️ **Stack:** React Native, Expo SDK 58, TypeScript, NativeWind v4, Tailwind CSS, AsyncStorage.
+
+[![Source Code](https://img.shields.io/badge/Source_Code-18182E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgustinMilesi/expenses)
+[![Platform](https://img.shields.io/badge/Platform-iOS_%7C_Android-10B981?style=for-the-badge&logo=expo&logoColor=white)](https://github.com/AgustinMilesi/expenses)
 
 <br/>
 
