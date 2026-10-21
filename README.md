@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  Full Stack & Mobile Developer specializing in enterprise systems, multi-tenant SaaS platforms, and high-performance cross-platform applications.
+  Full Stack & Mobile Developer • Creator of the <strong>VOUT</strong> Enterprise & Mobile Software Suite.
 </p>
 
 <p align="center">
@@ -26,11 +26,22 @@
 
 ---
 
-### 🚀 Featured Projects
+### ⚡ The VOUT Software Ecosystem
 
-#### 💳 Retail Engine & POS
-Cloud point of sale and store management system built for high-throughput retail operations.
-- ⚡ **Key Highlights:** Barcode scanner support, blind cash drawer audits with automatic discrepancy checks, atomic inventory deductions (zero overselling), thermal receipts, and multi-currency math.
+#### 📱 VOUT Pocket — Mobile Cost & Subscription Tracker
+Personal finance, recurring commitments, and micro-spending mobile tracker built with React Native and NativeWind. Designed with a striking Cyber Lime and Deep Obsidian palette.
+- ⚡ **Key Highlights:** Real-time disposable income gauge ("Safe to Spend"), instant numerical keypad logging for microgastos, 3-tier accelerometer shake-to-update gesture, multi-currency support, and offline-first persistence.
+- 🛠️ **Stack:** React Native, Expo SDK 58, TypeScript, NativeWind v4, Tailwind CSS, AsyncStorage.
+
+[![Source Code](https://img.shields.io/badge/Source_Code-18182E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgustinMilesi/expenses)
+[![Download APK](https://img.shields.io/badge/Download_APK-VOUT_v1.0.0-C6F827?style=for-the-badge&logo=android&logoColor=black)](https://expo.dev/accounts/agustinmilesi/projects/pocket-expenses/builds/e96134f5-2f11-4b67-9a96-d65a1b371b51)
+[![Platform](https://img.shields.io/badge/Platform-iOS_%7C_Android-10B981?style=for-the-badge&logo=expo&logoColor=white)](https://github.com/AgustinMilesi/expenses)
+
+<br/>
+
+#### 💳 VOUT Retail — Cloud Retail Engine & POS
+Cloud point of sale, store management, and ledger auditing system built for high-throughput retail operations.
+- ⚡ **Key Highlights:** Barcode scanner support, blind cash drawer audits with automatic discrepancy checks, atomic inventory deductions (zero overselling), thermal receipts, and penny-perfect multi-currency math.
 - 🛠️ **Stack:** Next.js 16, React 19, TypeScript, Neon Serverless Postgres, Prisma ORM, Tailwind CSS.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://milesi-erp.vercel.app)
@@ -39,8 +50,8 @@ Cloud point of sale and store management system built for high-throughput retail
 
 <br/>
 
-#### 📥 Customer Inbox & Forms Platform
-Multi-tenant SaaS platform to collect customer inquiries through embeddable web forms and triage them in a unified inbox.
+#### 📥 VOUT Inbox — Multi-Tenant Feedback & Customer Inbox
+Multi-tenant SaaS platform to collect customer inquiries and feedback through embeddable web forms and triage them in a unified inbox.
 - ⚡ **Key Highlights:** Strict workspace data isolation, embeddable forms via `<iframe>` and headless API, signed HMAC-SHA256 webhooks, and REST API v1.
 - 🛠️ **Stack:** Next.js 16, React 19, TypeScript, Neon Postgres, Prisma, HMAC Webhooks, REST API.
 
@@ -50,7 +61,7 @@ Multi-tenant SaaS platform to collect customer inquiries through embeddable web 
 
 <br/>
 
-#### 🚢 OneCargo — Freight Logistics OS
+#### 🚢 VOUT Cargo — Freight Logistics OS
 International freight forwarding, customs clearance, and real-time cargo tracking platform for ocean and air shipments.
 - ⚡ **Key Highlights:** Live container and B/L tracking, customs clearance channels (Green/Orange/Red), multimodal quote calculator, protected client self-service portal, and 4-language support.
 - 🛠️ **Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS, Prisma ORM, Neon Postgres Cloud.
@@ -61,18 +72,7 @@ International freight forwarding, customs clearance, and real-time cargo trackin
 
 <br/>
 
-#### 📱 PocketExpenses — Mobile Cost & Subscription Tracker
-Personal finance and mobile budget tracker built with React Native and NativeWind to manage monthly bills, recurring subscriptions, and leisure outings.
-- ⚡ **Key Highlights:** Real-time disposable income gauge, category breakdown (Fixed Bills vs Subscriptions vs Leisure), instant Paid/Pending toggle, multi-currency support, and offline-first persistence.
-- 🛠️ **Stack:** React Native, Expo SDK 58, TypeScript, NativeWind v4, Tailwind CSS, AsyncStorage.
-
-[![Source Code](https://img.shields.io/badge/Source_Code-18182E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgustinMilesi/expenses)
-[![Download APK](https://img.shields.io/badge/Download_APK-Android_Direct-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://expo.dev/artifacts/eas/4KlACYkfHxU14bITNmFSRYdkuBrz3MH7FVkXu-XggWs.apk)
-[![Platform](https://img.shields.io/badge/Platform-iOS_%7C_Android-10B981?style=for-the-badge&logo=expo&logoColor=white)](https://github.com/AgustinMilesi/expenses)
-
-<br/>
-
-#### 📬 Contact & Lead Portal
+#### 📬 VOUT Connect — Contact & Lead Portal
 Clean, modern contact portal and lead capture gateway with active anti-spam protection.
 - ⚡ **Key Highlights:** Dual client/server validation with Zod, invisible honeypot anti-bot trap, and instant transactional email delivery with Resend.
 - 🛠️ **Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS, Zod, Neon Postgres, Resend API.
