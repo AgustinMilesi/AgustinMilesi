@@ -18,11 +18,11 @@
 
 ## ⚡ The VOUT Software Ecosystem
 
-#### 📱 [VOUT Pocket](https://github.com/AgustinMilesi/expenses) — Mobile Cost & Subscription Tracker
+#### 📱 [VOUT](https://github.com/AgustinMilesi/expenses) — Mobile Expense & Subscription Tracker
 Personal finance, recurring commitments, and micro-spending mobile tracker built with React Native and NativeWind in a Cyber Lime & Deep Obsidian palette.
 - ⚡ **Highlights:** Disposable income gauge ("Safe to Spend"), instant numeric keypad for micro-expenses, 3-tier accelerometer shake-to-update gesture, and offline-first storage.
 - 🛠️ **Stack:** React Native, Expo SDK 58, TypeScript, NativeWind v4, AsyncStorage.
-- 📲 **[Download APK v1.0.0](https://expo.dev/accounts/agustinmilesi/projects/pocket-expenses/builds/e96134f5-2f11-4b67-9a96-d65a1b371b51)** • [Source Code](https://github.com/AgustinMilesi/expenses)
+- 📲 **[Download APK v1.0.3](https://expo.dev/accounts/agustinmilesi/projects/pocket-expenses/builds)** • [Source Code](https://github.com/AgustinMilesi/expenses)
 
 <br/>
 
