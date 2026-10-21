@@ -22,7 +22,7 @@
 Personal finance, recurring commitments, and micro-spending mobile tracker built with React Native and NativeWind in a Cyber Lime & Deep Obsidian palette.
 - ⚡ **Highlights:** Disposable income gauge ("Safe to Spend"), instant numeric keypad for micro-expenses, 3-tier accelerometer shake-to-update gesture, and offline-first storage.
 - 🛠️ **Stack:** React Native, Expo SDK 58, TypeScript, NativeWind v4, AsyncStorage.
-- 📲 **[Download APK v1.0.3.1](https://expo.dev/accounts/agustinmilesi/projects/pocket-expenses/builds)** • [Source Code](https://github.com/AgustinMilesi/expenses)
+- 📲 **[Download APK v1.0.3.1](https://github.com/AgustinMilesi/expenses/releases/latest/download/VOUT.apk)** • [Source Code](https://github.com/AgustinMilesi/expenses)
 
 <br/>
 
