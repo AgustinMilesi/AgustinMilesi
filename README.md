@@ -33,13 +33,13 @@
 ![](https://img.shields.io/badge/Tailwind_v4-PostCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat&logo=typescript&logoColor=white)
 
-👉 **[🚀 Explorar Portfolio en Vivo](https://agustinmilesi.github.io/portfolio/)** • **[💻 Repositorio del Portfolio](https://github.com/AgustinMilesi/portfolio)**
+👉 **[🚀 Live Demo](https://agustinmilesi.github.io/portfolio/)** • **[💻 Código Fuente](https://github.com/AgustinMilesi/portfolio)**
 
 ---
 
 ## ⚡ Flagship Platforms
 
-#### 💳 [VOUT Retail](https://milesi-erp.vercel.app) — Cloud Point of Sale & Store Engine (`vout/retail`)
+#### 💳 [VOUT Retail](https://milesi-erp.vercel.app/demo) — Cloud Point of Sale & Store Engine (`vout/retail`)
 > Punto de venta de alto rendimiento, lector de códigos de barra USB HID (<50ms buffer), arqueos ciegos de caja, facturación térmica ESC/POS y control atómico de stock.
 
 ![](https://img.shields.io/badge/Next.js_16-black?style=flat&logo=next.js&logoColor=white)
@@ -48,11 +48,11 @@
 ![](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat&logo=prisma&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-👉 **[🚀 Probar Retail en Vivo](https://milesi-erp.vercel.app)** • **[⚡ Demo Invitado 1-Clic](https://milesi-erp.vercel.app/demo)** • **[💻 Código Fuente](https://github.com/AgustinMilesi/retail)**
+👉 **[🚀 Live Demo](https://milesi-erp.vercel.app/demo)** • **[💻 Código Fuente](https://github.com/AgustinMilesi/retail)**
 
 <br/>
 
-#### 📥 [VOUT Inbox](https://saas-am.vercel.app) — Multi-Tenant Customer CRM & Sovereign Contact Gateway (`vout/inbox`)
+#### 📥 [VOUT Inbox](https://saas-am.vercel.app/demo) — Multi-Tenant Customer CRM & Sovereign Contact Gateway (`vout/inbox`)
 > **Plataforma Unificada Dos-en-Uno:** Bandeja multi-inquilino de captura y triaje de mensajes de clientes con webhooks firmados HMAC-SHA256 **+** Portal institucional de contacto directo con validación Zod y protección honeypot.
 
 ![](https://img.shields.io/badge/Next.js_16-black?style=flat&logo=next.js&logoColor=white)
@@ -61,11 +61,11 @@
 ![](https://img.shields.io/badge/Resend_API-000000?style=flat&logo=resend&logoColor=white)
 ![](https://img.shields.io/badge/Sovereign_Gateway-C6F827?style=flat&logoColor=0A0E14)
 
-👉 **[🚀 Consola SaaS en Vivo](https://saas-am.vercel.app)** • **[✉️ Portal de Contacto Directo](https://saas-am.vercel.app/contact)** • **[⚡ Demo Invitado](https://saas-am.vercel.app/demo)** • **[💻 Código Fuente](https://github.com/AgustinMilesi/inbox)**
+👉 **[🚀 Live Demo](https://saas-am.vercel.app/demo)** • **[✉️ Portal de Contacto Directo](https://saas-am.vercel.app/contact)** • **[💻 Código Fuente](https://github.com/AgustinMilesi/inbox)**
 
 <br/>
 
-#### 🚢 [VOUT Cargo](https://cargo-am.vercel.app) — Freight Logistics & Customs OS (`vout/cargo`)
+#### 🚢 [VOUT Cargo](https://cargo-am.vercel.app/demo) — Freight Logistics & Customs OS (`vout/cargo`)
 > Suite integral de logística internacional, rastreo satelital de contenedores FCL/LCL, cálculo arancelario de importación y alertas preventivas de demurrage en terminales portuarias.
 
 ![](https://img.shields.io/badge/Next.js_16-black?style=flat&logo=next.js&logoColor=white)
@@ -74,7 +74,7 @@
 ![](https://img.shields.io/badge/Live_Tracking-8B5CF6?style=flat&logo=googlemaps&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-👉 **[🚀 Probar Cargo en Vivo](https://cargo-am.vercel.app)** • **[⚡ Demo Invitado 1-Clic](https://cargo-am.vercel.app/demo)** • **[💻 Código Fuente](https://github.com/AgustinMilesi/cargo)**
+👉 **[🚀 Live Demo](https://cargo-am.vercel.app/demo)** • **[💻 Código Fuente](https://github.com/AgustinMilesi/cargo)**
 
 <br/>
 
@@ -87,7 +87,7 @@
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/NativeWind_v4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-👉 **[🌐 Web Hub en Vivo](https://vout-web.vercel.app)** • **[📲 Descargar APK Android (v1.0.3.2)](https://github.com/AgustinMilesi/expenses/releases/latest/download/VOUT.apk)** • **[💻 Código Fuente](https://github.com/AgustinMilesi/expenses)**
+👉 **[🚀 Live Demo](https://vout-web.vercel.app)** • **[📲 Descargar APK Android (v1.0.3.2)](https://github.com/AgustinMilesi/expenses/releases/latest/download/VOUT.apk)** • **[💻 Código Fuente](https://github.com/AgustinMilesi/expenses)**
 
 ---
 
