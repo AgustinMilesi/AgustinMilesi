@@ -4,7 +4,7 @@
 ### Full-Stack & Mobile Software Architect • Especialista en Soluciones para PYMEs e Individuos ⚡
 
 <p align="center">
-  <em>Técnico Superior en Desarrollo de Software (UNER). En constante estudio y formación continua, en búsqueda activa de una oportunidad donde desplegar mis habilidades y generar impacto.</em>
+  <em>Técnico Superior en Desarrollo de Software (UNER). Desarrollo full-stack web y móvil con TypeScript, Next.js, React Native y PostgreSQL.</em>
 </p>
 
 <p align="center">
