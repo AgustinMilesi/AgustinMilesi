@@ -92,7 +92,7 @@
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/NativeWind_v4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-👉 **[🚀 Live Web Hub](https://vout-web.vercel.app)** • **[📲 Descargar APK Android (v1.0.3.2)](https://github.com/AgustinMilesi/expenses/releases/latest/download/VOUT.apk)** • **[💻 Código Fuente](https://github.com/AgustinMilesi/expenses)**
+👉 **[🚀 Live Web Hub](https://vout-web.vercel.app)** • **[📲 Descargar APK Android (v1.3.4)](https://github.com/AgustinMilesi/expenses/releases/latest/download/VOUT.apk)** • **[💻 Código Fuente](https://github.com/AgustinMilesi/expenses)**
 
 ---
 
